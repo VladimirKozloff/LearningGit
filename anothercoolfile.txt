@@ -1,7 +1,9 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Cras vitae tortor tellus. 
 
-Nunc aliquet sem et magna cursus id placerat eros laoreet. 
+Edit this line. It’ll be a conflict.
 Proin gravida ultricies ante eu ultrices. 
 
 Just add a cool line.
+
+Just add a line. No conflict.

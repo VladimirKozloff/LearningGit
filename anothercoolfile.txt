@@ -1,6 +1,8 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Cras vitae tortor tellus. 
 
+Change from me here! Conflict? No conflict in this file.
+
 Edit this line. It’ll be a conflict.
 And here we will write another piece of text. Ñonflict here, right! 
 Proin gravida ultricies ante eu ultrices. 

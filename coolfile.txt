@@ -1,4 +1,6 @@
 Cool first line.
 Cool second line.
 
-Another useless change.
+Another useless change. This line is changed by DSav. A conflict should be here.
+
+A line added by DSav.
